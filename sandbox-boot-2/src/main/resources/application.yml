@@ -1,0 +1,5 @@
+spring.application.name: sandbox-boot-2
+
+sprint:
+    number: 1
+    name: boot
